@@ -1,7 +1,7 @@
 # pirate_ship
 Pirate ship schematic for Minetest
 
-Depends on cottages and stairsplus
+Depends on cottages and circularsaw
 
 Licenced as CC by SA 3.0
 
