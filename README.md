@@ -6,5 +6,7 @@ Depends on cottages and circularsaw
 
 Licenced as CC by SA 3.0
 
+Thanks to Sokomine for helping! :-)
+
 Preview (may display old version):
 ![Image Pirate ship](https://raw.githubusercontent.com/AspireMint/pirate_ship/master/preview.png)
