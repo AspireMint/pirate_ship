@@ -4,7 +4,9 @@ Pirate ship schematic for Minetest
 
 Depends on cottages and circularsaw
 
-Licenced as CC by SA 3.0
+Licensed as CC by SA 3.0  
+For more details:  
+http://creativecommons.org/licenses/by-sa/3.0/  
 
 Thanks to Sokomine for helping! :-)
 
